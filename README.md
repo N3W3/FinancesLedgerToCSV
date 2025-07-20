@@ -1,8 +1,8 @@
-# Finances Ledger-mode into CSV
+# Convert multiple finance Ledger-mode files into CSV 
 
 # Introduction
 
-# Version 
+# Versions 
 
 # How that work 
 
