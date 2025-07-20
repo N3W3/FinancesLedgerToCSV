@@ -20,8 +20,7 @@ public class Data{
      * Constructeur données d'un mois
      *
      */
-    public Data(String month, Integer year){
-        String fileName = month + year;
+    public Data(String fileName){
         setData(fileName);
     }
 
