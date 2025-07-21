@@ -19,7 +19,7 @@ public class Manage{
 
         folder = new File("ledger"); //Emplacement du repertoire où sont stockés les fichiers .ledger
 
-        // Tableau de fichiers a analyser, si des fichiers sont présents dans le repertoire
+        // Tableau de fichiers présents dans le repertoire, si des fichiers sont présents dans le repertoire
         if(folder.list().length > 0){
           files = new String[folder.list().length];
           files = folder.list();
